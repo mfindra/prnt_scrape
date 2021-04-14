@@ -145,3 +145,5 @@ Thumbs.db #thumbnail cache on Windows
 .prof
 
 .vscode
+
+./images/*
