@@ -16,6 +16,7 @@ Arguments
 - -c Config file - contains list of downloaded images, to prevent duplicates
 - -m (todo) download mode
 - -t (todo) timestamp picture name
+- -d Show debug info
 
 ## TODO
 Image comare to prevent duplicates \
